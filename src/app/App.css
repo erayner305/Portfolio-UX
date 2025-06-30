@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    background-color: whitesmoke;
+    width: 90vw;
+    height: fit-content;
+}
+
+.container .section {
+    
+}

@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+    --unit-size: 8px;
+}
+
+#root {
+    background-color: lightblue;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+}
+
+.u {
+
+}
